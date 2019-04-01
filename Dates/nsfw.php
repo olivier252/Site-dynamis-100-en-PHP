@@ -13,7 +13,7 @@ if(isset($_COOKIE['user'])) {
 
 <?php if($age && $age > 18): ?>
 
-    <h1>Hello tu es un salace !</h1>
+    <h1>Vous avez plus de 18 ans</h1>
 
 
 
